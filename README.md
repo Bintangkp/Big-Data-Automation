@@ -1,7 +1,7 @@
 # 💡 Big-Data-Automation 💡
 
 ## About The Project
-🔥 In this project, I aimed to develop an ETL automation pipeline integrated with Great Expectations (GX) for data validation. Additionally, I worked with big data tools such as PySpark for distributed data processing and NoSQL databases for flexible data storage. The project involved collecting datasets from various sources, followed by comprehensive data processing, including cleaning, handling missing values, transforming, validating, and finally storing the refined data into MongoDB. This workflow ensures data integrity, scalability, and efficient management for further analysis and insights. 🚀
+🔥 This project aimed to develop an ETL automation pipeline integrated with Great Expectations (GX) for data validation. Additionally, I worked with big data tools such as PySpark for distributed data processing and NoSQL databases for flexible data storage. The project involved collecting datasets from various sources, followed by comprehensive data processing, including cleaning, handling missing values, transforming, validating, and finally storing the refined data into MongoDB. This workflow ensures data integrity, scalability, and efficient management for further analysis and insights. 🚀
 
 
 ## Built With
